@@ -6,6 +6,8 @@
 ## How to use
 - Download source Godot 2.1.5 stable "godot-2.1.5-stable.tar.xz" (https://downloads.tuxfamily.org/godotengine/2.1.5/).
 
+- Unzipe the ```module/GodotCamera.zip```
+
 - Drop the ```module/GodotCamera``` folder inside ```godot/modules```
 
 - Move the ```module/GodotCamera.java``` to ```godot/platform/android/java/src/org/godotengine/godot```
